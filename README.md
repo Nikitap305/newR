@@ -1,0 +1,2 @@
+# newR
+It is repository 
